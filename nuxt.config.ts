@@ -6,4 +6,6 @@ export default ({
     colorMode: {
         classSuffix: '',
     },
+    ssr: false,
+    target: 'static',
 })
